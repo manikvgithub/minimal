@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Fraud Detection
 
-This is an exercise for creating website usign Github
+This is an exercise for creating website using Github
 
 ## Header 2
 
